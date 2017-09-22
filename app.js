@@ -3,7 +3,7 @@ var app = express();
 app.set('view engine','ejs');
 
 app.get('/',function(request,response){
-    response.send("home/index");
+    response.render("home/index");
     
 });
 app.get('/formulario_inclusao_noticia',function(request,response){
