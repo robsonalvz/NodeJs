@@ -1,2 +1,2 @@
 # learning about NodeJS
-* using express....
+* using express, nvm
