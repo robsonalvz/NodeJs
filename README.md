@@ -1,6 +1,6 @@
 # learning about NodeJS
-* using:
-** Express
-** EJS
-** Nodemon
-** NPM
+## Using:
+* Express
+* EJS
+* Nodemon
+* NPM
