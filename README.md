@@ -4,3 +4,5 @@
 * EJS
 * Nodemon
 * NPM
+* Common JS
+* MySql
