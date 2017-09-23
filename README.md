@@ -7,3 +7,5 @@
 * Common JS
 * MySql
 * Consign
+* Express-Validator
+* Body-Parser

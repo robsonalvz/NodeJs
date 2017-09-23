@@ -7,7 +7,13 @@
     <h1>Adicionar notícia</h1>
     <form action="noticia/salvar" method="post">
         <label for="">Titulo</label><br>
-        <input type="text" id="titulo" name="titulo" placeholder="titulo da noticia..."><br>
+          <input type="text" id="titulo" name="titulo" placeholder="titulo da noticia..."><br>
+        <label for="">Resumo</label><br>
+        <input type="text" id="resumo" name="resumo"placeholder="resumo da noticia"><br>
+        <label for="">Nome do Autor</label><br>
+        <input type="text" id="autor" name="autor"><br>
+        <label for="">Data dos fatos</label>
+        <input type="date" id="dataNoticia" name="dataNoticia" placeholder="Data da noticia..."><br>
         <label for="">Noticia</label><br>
         <textarea name="noticia" id="noticia" cols="30" rows="5"></textarea><br>
         <input type="submit" value="Enviar">
