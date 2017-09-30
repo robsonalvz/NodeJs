@@ -10,3 +10,4 @@
 * Express-Validator
 * Body-Parser
 * Design pattern Model-View-Controller (MVC)
+* Jenkins Tests
