@@ -13,7 +13,7 @@ describe("SAMPLE unit test",function(){
   it("should return home page",function(done){
     // calling home page
     server
-    .get("/")
+    .get("/a")
     .expect("Content-type",/text/)
     .expect(200) // THis is HTTP response
     .end(function(err,res){
