@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 # Notices project
 * notices projet
 ** add new news
 ** list of news
 * learning about NodeJS
+=======
+# learning about NodeJS
+>>>>>>> 44a41d47224c6928261161f4f36f89243e88fa09
 ## Using:
 * Express
 * EJS
