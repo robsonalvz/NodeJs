@@ -1,11 +1,7 @@
-
-# Notices project
-* notices projet
-** add new news
-** list of news
-* learning about NodeJS
-=======
-
+# NEWS PRJECT
+* add new news
+* list of news
+* learning about NodeJS with this projetc
 
 ## Using:
 * Express
@@ -21,4 +17,3 @@
 * Jenkins Tests
 * Supertest 
 * Mocha
-*
