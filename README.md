@@ -1,4 +1,4 @@
-# learning about NodeJS (Udemy)
+# learning about NodeJS
 ## Using:
 * Express
 * EJS
