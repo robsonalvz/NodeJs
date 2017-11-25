@@ -1,4 +1,8 @@
-# learning about NodeJS (Udemy)
+# Notices project
+* notices projet
+** add new news
+** list of news
+* learning about NodeJS
 ## Using:
 * Express
 * EJS
@@ -7,10 +11,10 @@
 * Common JS
 * MySql
 * Consign
-* Express-Validator
+* Express Validator
 * Body-Parser
 * Design pattern Model-View-Controller (MVC)
 * Jenkins Tests
 * Supertest 
 * Mocha
-*...
+*
