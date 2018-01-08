@@ -1,4 +1,4 @@
-# NEWS PRJECT
+# NEWS PROJECT
 * add new news
 * list of news
 * learning about NodeJS with this projetc
